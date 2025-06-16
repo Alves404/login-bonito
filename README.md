@@ -17,7 +17,7 @@ Este repositório contém uma **tela de login responsiva e visualmente atraente*
 
 ## Visualização 👀
 
-[Veja uma demonstração aqui!](https://alves404-login-bonito.vercel.app/)
+[Veja uma demonstração aqui!](https://login-bonito.vercel.app/)
 
 ## 💡 Sugestão de Uso
 
