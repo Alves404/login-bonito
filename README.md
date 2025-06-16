@@ -10,18 +10,6 @@ Este repositório contém uma **tela de login responsiva e visualmente atraente*
 - Fácil de personalizar cores e fontes
 - **Código totalmente open source!**
 
-## 📦 Como usar
-
-1. Faça o clone do repositório:
-   ```bash
-   git clone https://github.com/Alves404/login-bonito.git
-   ```
-2. Acesse a pasta do projeto:
-   ```bash
-   cd seu-repositorio
-   ```
-3. Abra o arquivo `index.html` no seu navegador.
-
 ## 🛠️ Customização
 
 - Para alterar cores, fontes ou espaçamentos, edite o arquivo `style.css`.
